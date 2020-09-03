@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HW222</string>
+    <string name="note_format">Запись %d :</string>
+    <string name="note_format_saved">Запись %d сохранена!:</string>
+    <string name="notes">Notes</string>
+    <string name="save">Сохранить</string>
+    <string name="settings">Settings</string>
+    <string name="note_book">Записная книжка</string>
+    <string name="payment">Оплата чего-нибудь</string>
+
+    <string name="payment_info">Информация об оплате</string>
+    <string name="money_input">Ввод денег</string>
+    <string name="ok">ОК</string>
+    <string name="from_bank_card">С банковской карты</string>
+    <string name="from_mobile">С мобильного телефона</string>
+    <string name="from_cash">Наличными по адресу</string>
+
+
+
+
+    </resources>
